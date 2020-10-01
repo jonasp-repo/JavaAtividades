@@ -2,9 +2,6 @@ package br.com.abc.javacore.Fmodificadorestatico.test;
 
 import br.com.abc.javacore.Fmodificadorestatico.classes.Carro;
 
-/**
- * Created by William Suane on 4/14/2016.
- */
 public class CarroTest {
     public static void main(String[] args) {
         Carro.setVelocidadeLimite(220);
